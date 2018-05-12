@@ -1,0 +1,35 @@
+_repo: The-Pros-and-Cons-of-Vivisection_37158
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Halliburton, W. D. (William Dobinson)
+    alias: Halliburton, William Dobinson
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '38685'
+    url: http://www.gutenberg.org/2009/agents/38685
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richet, Charles
+    birthdate: 1850
+    deathdate: 1935
+    gutenberg_agent_id: '38684'
+    url: http://www.gutenberg.org/2009/agents/38684
+description: ''
+gutenberg_issued: '2011-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37158'
+  lccn: 09014521
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vivisection'
+- !lcc 'HV'
+title: The Pros and Cons of Vivisection
+url: http://www.gutenberg.org/ebooks/37158
