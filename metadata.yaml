@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '38684'
     url: http://www.gutenberg.org/2009/agents/38684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37158#The-Pros-and-Cons-of-Vivisection
 gutenberg_issued: '2011-08-22'
 gutenberg_type: Text
 identifiers:
